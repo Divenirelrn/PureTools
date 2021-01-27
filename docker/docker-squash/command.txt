@@ -1,0 +1,3 @@
+pip install docker-squash
+
+sudo TMPDIR=/data/tmp docker-squash -t image_service:squashed image_service:v1.1
