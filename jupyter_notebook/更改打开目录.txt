@@ -1,0 +1,6 @@
+C:\Users\<user_name>\.jupyter\
+
+配置文件：jupyter_notebook_config.py
+     c.NotebookApp.notebook_dir = r'D:\files\github_projects\pureTools\jupyter_notebook'
+
+CMD输入：jupyter notebook
